@@ -1,4 +1,6 @@
-# Git・GitHub 勉強用プロジェクト
+# cursor-git-github
+
+CursorでのGitHub勉強用プロジェクト
 
 このプロジェクトは、GitとGitHubの基本的な使い方を学ぶための練習用リポジトリです。
 
@@ -34,4 +36,3 @@
 
 - [Git公式ドキュメント](https://git-scm.com/doc)
 - [GitHub公式ドキュメント](https://docs.github.com/ja)
-
